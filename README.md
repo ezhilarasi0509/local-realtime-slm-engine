@@ -517,23 +517,6 @@ Explain model inference and why tokens per second matters.
 
 ---
 
-## 📸 Screenshots to Add
-
-Add screenshots in the repository later:
-
-```text
-screenshots/dashboard.png
-screenshots/swagger-api.png
-screenshots/benchmark-result.png
-```
-
-Suggested screenshot sections:
-
-- Full dashboard view
-- Swagger API endpoint list
-- Model comparison result
-- Best model structured output
-- Performance insights
 
 ---
 
@@ -573,42 +556,8 @@ It shows how local SLMs can be evaluated for real-world constraints such as priv
 
 ---
 
-## 🔮 Future Improvements
-
-Possible future upgrades:
-
-- Add historical performance charts
-- Add Docker support
-- Add automated backend tests
-- Add more quantized model comparisons
-- Add prompt category filters
-- Add benchmark result search
-- Add model recommendation rules
-- Add downloadable PDF report
-- Add authentication for private deployment
-
 ---
 
-## 👩‍💻 Author
 
-Built by Ezhilarasi
 
-GitHub:
 
-```text
-https://github.com/ezhilarasi0509
-```
-
-Project Repository:
-
-```text
-https://github.com/ezhilarasi0509/local-realtime-slm-engine
-```
-
----
-
-## ⭐ Final Note
-
-This project was built as an AI engineering portfolio project to demonstrate practical understanding of local model inference, backend API design, realtime dashboard development, structured LLM output validation, and model benchmarking.
-
-It is not just a chatbot. It is a local AI evaluation system designed to help compare small language models based on real engineering metrics.
