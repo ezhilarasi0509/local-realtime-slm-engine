@@ -1,0 +1,550 @@
+[
+    {
+        "timestamp": "2026-05-24T08:52:25.057139",
+        "total_prompts": 5,
+        "overall_best_model": "phi3",
+        "average_scores": [
+            {
+                "model": "phi3",
+                "average_score": 6.68,
+                "wins": 3,
+                "runs": 5
+            },
+            {
+                "model": "mistral",
+                "average_score": 6.61,
+                "wins": 1,
+                "runs": 5
+            },
+            {
+                "model": "llama3",
+                "average_score": 6.59,
+                "wins": 1,
+                "runs": 5
+            }
+        ],
+        "suite_results": [
+            {
+                "category": "coding",
+                "prompt": "Explain stack in Java with a simple code example.",
+                "best_model": "phi3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "phi3",
+                        "score": 7.0
+                    },
+                    {
+                        "rank": 2,
+                        "model": "llama3",
+                        "score": 6.84
+                    },
+                    {
+                        "rank": 3,
+                        "model": "mistral",
+                        "score": 6.52
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Write Java code to check valid parentheses using stack.",
+                "best_model": "mistral",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "mistral",
+                        "score": 7.2
+                    },
+                    {
+                        "rank": 2,
+                        "model": "llama3",
+                        "score": 6.78
+                    },
+                    {
+                        "rank": 3,
+                        "model": "phi3",
+                        "score": 6.32
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Explain binary search with time complexity.",
+                "best_model": "phi3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "phi3",
+                        "score": 6.48
+                    },
+                    {
+                        "rank": 2,
+                        "model": "llama3",
+                        "score": 6.45
+                    },
+                    {
+                        "rank": 3,
+                        "model": "mistral",
+                        "score": 6.33
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Write Python code to reverse a linked list and explain the logic.",
+                "best_model": "phi3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "phi3",
+                        "score": 7.04
+                    },
+                    {
+                        "rank": 2,
+                        "model": "mistral",
+                        "score": 7.0
+                    },
+                    {
+                        "rank": 3,
+                        "model": "llama3",
+                        "score": 6.14
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Explain merge sort with time and space complexity.",
+                "best_model": "llama3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "llama3",
+                        "score": 6.74
+                    },
+                    {
+                        "rank": 2,
+                        "model": "phi3",
+                        "score": 6.57
+                    },
+                    {
+                        "rank": 3,
+                        "model": "mistral",
+                        "score": 6.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-05-24T09:19:35.012455",
+        "total_prompts": 5,
+        "overall_best_model": "phi3",
+        "average_scores": [
+            {
+                "model": "phi3",
+                "average_score": 6.73,
+                "wins": 1,
+                "runs": 5
+            },
+            {
+                "model": "llama3",
+                "average_score": 6.6,
+                "wins": 1,
+                "runs": 5
+            },
+            {
+                "model": "mistral",
+                "average_score": 6.52,
+                "wins": 3,
+                "runs": 5
+            }
+        ],
+        "suite_results": [
+            {
+                "category": "coding",
+                "prompt": "Explain stack in Java with a simple code example.",
+                "best_model": "phi3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "phi3",
+                        "score": 6.99
+                    },
+                    {
+                        "rank": 2,
+                        "model": "llama3",
+                        "score": 6.92
+                    },
+                    {
+                        "rank": 3,
+                        "model": "mistral",
+                        "score": 5.81
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Write Java code to check valid parentheses using stack.",
+                "best_model": "mistral",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "mistral",
+                        "score": 7.25
+                    },
+                    {
+                        "rank": 2,
+                        "model": "llama3",
+                        "score": 6.73
+                    },
+                    {
+                        "rank": 3,
+                        "model": "phi3",
+                        "score": 6.32
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Explain binary search with time complexity.",
+                "best_model": "mistral",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "mistral",
+                        "score": 6.62
+                    },
+                    {
+                        "rank": 2,
+                        "model": "phi3",
+                        "score": 6.59
+                    },
+                    {
+                        "rank": 3,
+                        "model": "llama3",
+                        "score": 6.5
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Write Python code to reverse a linked list and explain the logic.",
+                "best_model": "mistral",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "mistral",
+                        "score": 7.13
+                    },
+                    {
+                        "rank": 2,
+                        "model": "phi3",
+                        "score": 7.09
+                    },
+                    {
+                        "rank": 3,
+                        "model": "llama3",
+                        "score": 6.14
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Explain merge sort with time and space complexity.",
+                "best_model": "llama3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "llama3",
+                        "score": 6.69
+                    },
+                    {
+                        "rank": 2,
+                        "model": "phi3",
+                        "score": 6.64
+                    },
+                    {
+                        "rank": 3,
+                        "model": "mistral",
+                        "score": 5.79
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-05-24T09:31:19.059928",
+        "total_prompts": 5,
+        "overall_best_model": "phi3",
+        "average_scores": [
+            {
+                "model": "phi3",
+                "average_score": 6.65,
+                "wins": 1,
+                "runs": 5
+            },
+            {
+                "model": "llama3",
+                "average_score": 6.54,
+                "wins": 2,
+                "runs": 5
+            },
+            {
+                "model": "mistral",
+                "average_score": 6.54,
+                "wins": 2,
+                "runs": 5
+            }
+        ],
+        "suite_results": [
+            {
+                "category": "coding",
+                "prompt": "Explain stack in Java with a simple code example.",
+                "best_model": "phi3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "phi3",
+                        "score": 6.89
+                    },
+                    {
+                        "rank": 2,
+                        "model": "llama3",
+                        "score": 6.88
+                    },
+                    {
+                        "rank": 3,
+                        "model": "mistral",
+                        "score": 6.32
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Write Java code to check valid parentheses using stack.",
+                "best_model": "mistral",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "mistral",
+                        "score": 7.08
+                    },
+                    {
+                        "rank": 2,
+                        "model": "llama3",
+                        "score": 6.55
+                    },
+                    {
+                        "rank": 3,
+                        "model": "phi3",
+                        "score": 6.32
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Explain binary search with time complexity.",
+                "best_model": "llama3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "llama3",
+                        "score": 6.41
+                    },
+                    {
+                        "rank": 2,
+                        "model": "phi3",
+                        "score": 6.4
+                    },
+                    {
+                        "rank": 3,
+                        "model": "mistral",
+                        "score": 6.33
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Write Python code to reverse a linked list and explain the logic.",
+                "best_model": "mistral",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "mistral",
+                        "score": 7.04
+                    },
+                    {
+                        "rank": 2,
+                        "model": "phi3",
+                        "score": 7.04
+                    },
+                    {
+                        "rank": 3,
+                        "model": "llama3",
+                        "score": 6.14
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Explain merge sort with time and space complexity.",
+                "best_model": "llama3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "llama3",
+                        "score": 6.71
+                    },
+                    {
+                        "rank": 2,
+                        "model": "phi3",
+                        "score": 6.62
+                    },
+                    {
+                        "rank": 3,
+                        "model": "mistral",
+                        "score": 5.95
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-05-24T12:20:26.147280",
+        "total_prompts": 5,
+        "overall_best_model": "phi3",
+        "average_scores": [
+            {
+                "model": "phi3",
+                "average_score": 6.6,
+                "wins": 2,
+                "runs": 5
+            },
+            {
+                "model": "llama3",
+                "average_score": 6.58,
+                "wins": 2,
+                "runs": 5
+            },
+            {
+                "model": "mistral",
+                "average_score": 6.52,
+                "wins": 1,
+                "runs": 5
+            }
+        ],
+        "suite_results": [
+            {
+                "category": "coding",
+                "prompt": "Explain stack in Java with a simple code example.",
+                "best_model": "phi3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "phi3",
+                        "score": 6.99
+                    },
+                    {
+                        "rank": 2,
+                        "model": "llama3",
+                        "score": 6.86
+                    },
+                    {
+                        "rank": 3,
+                        "model": "mistral",
+                        "score": 6.51
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Write Java code to check valid parentheses using stack.",
+                "best_model": "mistral",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "mistral",
+                        "score": 7.18
+                    },
+                    {
+                        "rank": 2,
+                        "model": "llama3",
+                        "score": 6.73
+                    },
+                    {
+                        "rank": 3,
+                        "model": "phi3",
+                        "score": 6.32
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Explain binary search with time complexity.",
+                "best_model": "llama3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "llama3",
+                        "score": 6.46
+                    },
+                    {
+                        "rank": 2,
+                        "model": "mistral",
+                        "score": 6.31
+                    },
+                    {
+                        "rank": 3,
+                        "model": "phi3",
+                        "score": 6.16
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Write Python code to reverse a linked list and explain the logic.",
+                "best_model": "phi3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "phi3",
+                        "score": 6.88
+                    },
+                    {
+                        "rank": 2,
+                        "model": "mistral",
+                        "score": 6.58
+                    },
+                    {
+                        "rank": 3,
+                        "model": "llama3",
+                        "score": 6.14
+                    }
+                ]
+            },
+            {
+                "category": "coding",
+                "prompt": "Explain merge sort with time and space complexity.",
+                "best_model": "llama3",
+                "leaderboard": [
+                    {
+                        "rank": 1,
+                        "model": "llama3",
+                        "score": 6.71
+                    },
+                    {
+                        "rank": 2,
+                        "model": "phi3",
+                        "score": 6.65
+                    },
+                    {
+                        "rank": 3,
+                        "model": "mistral",
+                        "score": 6.0
+                    }
+                ]
+            }
+        ]
+    }
+]

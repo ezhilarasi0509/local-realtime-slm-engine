@@ -1,0 +1,157 @@
+benchmark_id,request_id,timestamp,prompt,best_model,model,final_score,latency_ms,time_to_first_token,tokens_per_sec,valid_output,retry_count
+,,2026-05-22T20:19:58.618742,Explain stack in Java with a simple code example.,phi3,phi3,6.99,5960.0,2.5,4.7,True,0
+,,2026-05-22T20:19:58.618742,Explain stack in Java with a simple code example.,phi3,llama3,6.94,7620.0,2.65,4.33,True,0
+,,2026-05-22T20:19:58.618742,Explain stack in Java with a simple code example.,phi3,mistral,6.27,20990.0,7.11,2.43,True,0
+,,2026-05-22T20:21:03.314037,Write Java code to check valid parentheses using stack.,mistral,mistral,7.25,16210.0,0.23,5.12,True,0
+,,2026-05-22T20:21:03.314037,Write Java code to check valid parentheses using stack.,mistral,llama3,6.75,12660.0,4.62,4.74,True,0
+,,2026-05-22T20:21:03.314037,Write Java code to check valid parentheses using stack.,mistral,phi3,6.32,0,0,7.0,False,3
+,,2026-05-22T20:21:40.428470,Explain binary search with time complexity.,phi3,phi3,6.49,9880.0,2.32,5.87,True,0
+,,2026-05-22T20:21:40.428470,Explain binary search with time complexity.,phi3,llama3,6.47,10590.0,4.91,2.27,True,0
+,,2026-05-22T20:21:40.428470,Explain binary search with time complexity.,phi3,mistral,6.43,16640.0,0.45,3.49,True,0
+,,2026-05-22T20:22:25.420148,A train leaves at 8 AM at 60 km/h. Another leaves at 9 AM at 80 km/h. Explain how to find when they meet.,phi3,phi3,6.84,10270.0,2.89,3.7,True,0
+,,2026-05-22T20:22:25.420148,A train leaves at 8 AM at 60 km/h. Another leaves at 9 AM at 80 km/h. Explain how to find when they meet.,phi3,mistral,6.54,18760.0,1.31,1.81,True,0
+,,2026-05-22T20:22:25.420148,A train leaves at 8 AM at 60 km/h. Another leaves at 9 AM at 80 km/h. Explain how to find when they meet.,phi3,llama3,6.45,15960.0,6.05,1.32,True,0
+,,2026-05-22T20:23:34.572243,Explain step by step how to solve a logic puzzle.,llama3,llama3,7.39,27530.0,5.33,3.2,True,0
+,,2026-05-22T20:23:34.572243,Explain step by step how to solve a logic puzzle.,llama3,mistral,6.89,31540.0,0.6,2.89,True,0
+,,2026-05-22T20:23:34.572243,Explain step by step how to solve a logic puzzle.,llama3,phi3,6.67,10080.0,2.59,5.85,True,0
+,,2026-05-22T20:24:01.655315,Explain artificial intelligence in simple words.,llama3,llama3,6.81,10920.0,5.0,2.93,True,0
+,,2026-05-22T20:24:01.655315,Explain artificial intelligence in simple words.,llama3,phi3,6.79,6790.0,2.43,4.12,True,0
+,,2026-05-22T20:24:01.655315,Explain artificial intelligence in simple words.,llama3,mistral,6.52,9370.0,0.83,3.74,True,0
+,,2026-05-22T20:24:47.813723,Explain the difference between machine learning and deep learning.,phi3,phi3,7.83,10290.0,2.57,7.97,True,0
+,,2026-05-22T20:24:47.813723,Explain the difference between machine learning and deep learning.,phi3,mistral,7.72,18150.0,0.57,5.23,True,0
+,,2026-05-22T20:24:47.813723,Explain the difference between machine learning and deep learning.,phi3,llama3,6.75,17710.0,4.46,4.29,True,0
+,,2026-05-22T20:26:02.468081,Summarize the concept of cloud computing in 5 bullet points.,llama3,llama3,7.08,21130.0,5.49,5.3,True,0
+,,2026-05-22T20:26:02.468081,Summarize the concept of cloud computing in 5 bullet points.,llama3,mistral,6.51,19400.0,0.57,3.97,True,0
+,,2026-05-22T20:26:02.468081,Summarize the concept of cloud computing in 5 bullet points.,llama3,phi3,5.96,0,0,7.0,False,3
+,,2026-05-22T20:26:44.560083,What is an operating system? Explain clearly.,phi3,phi3,7.15,6830.0,2.47,5.56,True,0
+,,2026-05-22T20:26:44.560083,What is an operating system? Explain clearly.,phi3,mistral,6.98,11420.0,0.53,4.47,True,0
+,,2026-05-22T20:26:44.560083,What is an operating system? Explain clearly.,phi3,llama3,5.96,0,0,7.0,False,3
+,,2026-05-22T20:27:43.533078,Explain how a URL shortener works at a high level.,phi3,phi3,6.71,8660.0,2.51,5.77,True,0
+,,2026-05-22T20:27:43.533078,Explain how a URL shortener works at a high level.,phi3,mistral,6.6,11880.0,0.55,3.37,True,0
+,,2026-05-22T20:27:43.533078,Explain how a URL shortener works at a high level.,phi3,llama3,5.96,0,0,7.0,False,3
+,,2026-05-24T08:24:25.072000,Explain stack in Java with a simple code example.,phi3,phi3,6.99,6040.0,2.47,4.64,True,0
+,,2026-05-24T08:24:25.072000,Explain stack in Java with a simple code example.,phi3,llama3,6.87,9600.0,4.44,3.44,True,0
+,,2026-05-24T08:24:25.072000,Explain stack in Java with a simple code example.,phi3,mistral,6.33,19550.0,5.21,2.61,True,0
+,,2026-05-24T08:25:30.976560,Write Java code to check valid parentheses using stack.,mistral,mistral,7.24,16710.0,0.25,4.97,True,0
+,,2026-05-24T08:25:30.976560,Write Java code to check valid parentheses using stack.,mistral,llama3,6.72,13550.0,5.38,4.43,True,0
+,,2026-05-24T08:25:30.976560,Write Java code to check valid parentheses using stack.,mistral,phi3,6.32,0,0,7.0,False,3
+,,2026-05-24T08:26:11.009500,Explain stack in Java with a simple code example.,llama3,llama3,6.85,9920.0,4.82,3.33,True,0
+,,2026-05-24T08:26:11.009500,Explain stack in Java with a simple code example.,llama3,phi3,6.79,11630.0,3.13,2.41,True,0
+,,2026-05-24T08:26:11.009500,Explain stack in Java with a simple code example.,llama3,mistral,6.21,22690.0,5.01,2.25,True,0
+,,2026-05-24T08:26:36.228158,Explain binary search with time complexity.,llama3,llama3,6.39,12700.0,5.91,1.89,True,0
+,,2026-05-24T08:26:36.228158,Explain binary search with time complexity.,llama3,phi3,6.31,14990.0,3.38,3.87,True,0
+,,2026-05-24T08:26:36.228158,Explain binary search with time complexity.,llama3,mistral,5.68,37550.0,16.35,1.54,True,0
+,,2026-05-24T08:29:13.148382,Write Python code to reverse a linked list and explain the logic.,phi3,phi3,7.15,6860.0,1.45,3.94,True,0
+,,2026-05-24T08:29:13.148382,Write Python code to reverse a linked list and explain the logic.,phi3,mistral,6.58,66070.0,6.2,1.42,True,0
+,,2026-05-24T08:29:13.148382,Write Python code to reverse a linked list and explain the logic.,phi3,llama3,6.14,0,0,7.0,False,3
+,,2026-05-24T08:29:49.606909,Write Java code to check valid parentheses using stack.,llama3,llama3,6.36,23850.0,6.03,2.52,True,0
+,,2026-05-24T08:29:49.606909,Write Java code to check valid parentheses using stack.,llama3,phi3,6.32,0,0,7.0,False,3
+,,2026-05-24T08:29:49.606909,Write Java code to check valid parentheses using stack.,llama3,mistral,6.22,76090.0,4.47,1.09,True,0
+,,2026-05-24T08:30:43.423856,Explain merge sort with time and space complexity.,llama3,llama3,6.37,23260.0,6.12,1.2,True,0
+,,2026-05-24T08:30:43.423856,Explain merge sort with time and space complexity.,llama3,phi3,6.2,23010.0,3.67,3.04,True,0
+,,2026-05-24T08:30:43.423856,Explain merge sort with time and space complexity.,llama3,mistral,5.27,44000.0,5.94,1.18,True,0
+,,2026-05-24T08:31:16.785835,Explain binary search with time complexity.,phi3,phi3,6.13,20030.0,4.28,2.9,True,0
+,,2026-05-24T08:31:16.785835,Explain binary search with time complexity.,phi3,llama3,6.09,21180.0,6.8,1.13,True,0
+,,2026-05-24T08:31:16.785835,Explain binary search with time complexity.,phi3,mistral,5.41,45960.0,10.51,1.26,True,0
+,,2026-05-24T08:33:43.122336,Write Python code to reverse a linked list and explain the logic.,phi3,phi3,6.94,12490.0,3.04,2.16,True,0
+,,2026-05-24T08:33:43.122336,Write Python code to reverse a linked list and explain the logic.,phi3,mistral,6.58,46860.0,14.67,2.01,True,0
+,,2026-05-24T08:33:43.122336,Write Python code to reverse a linked list and explain the logic.,phi3,llama3,6.14,0,0,7.0,False,3
+,,2026-05-24T08:34:55.514642,Explain merge sort with time and space complexity.,phi3,phi3,6.7,9250.0,1.68,7.57,True,0
+,,2026-05-24T08:34:55.514642,Explain merge sort with time and space complexity.,phi3,llama3,6.6,17080.0,5.09,1.64,True,0
+,,2026-05-24T08:34:55.514642,Explain merge sort with time and space complexity.,phi3,mistral,5.23,46060.0,4.93,1.13,True,0
+,,2026-05-24T08:35:04.906017,Explain the difference between stack and queue with examples.,mistral,mistral,5.96,0,0,7.0,False,3
+,,2026-05-24T08:35:04.906017,Explain the difference between stack and queue with examples.,mistral,phi3,5.96,0,0,7.0,False,3
+,,2026-05-24T08:35:04.906017,Explain the difference between stack and queue with examples.,mistral,llama3,5.87,32160.0,6.89,1.4,True,0
+,,2026-05-24T08:35:37.978476,Explain hash map collision handling in simple terms.,phi3,phi3,6.96,7070.0,2.34,5.8,True,0
+,,2026-05-24T08:35:37.978476,Explain hash map collision handling in simple terms.,phi3,llama3,6.95,12210.0,4.91,3.69,True,0
+,,2026-05-24T08:35:37.978476,Explain hash map collision handling in simple terms.,phi3,mistral,6.89,13800.0,0.42,5.43,True,0
+,,2026-05-24T08:36:55.815668,Explain breadth-first search and depth-first search.,llama3,llama3,7.56,17740.0,3.64,6.37,True,0
+,,2026-05-24T08:36:55.815668,Explain breadth-first search and depth-first search.,llama3,mistral,7.35,23490.0,0.43,4.94,True,0
+,,2026-05-24T08:36:55.815668,Explain breadth-first search and depth-first search.,llama3,phi3,5.96,0,0,7.0,False,3
+,,2026-05-24T08:37:34.959373,Explain Big O notation with examples.,phi3,phi3,6.56,7970.0,2.36,7.28,True,0
+,,2026-05-24T08:37:34.959373,Explain Big O notation with examples.,phi3,llama3,6.49,14920.0,4.96,3.75,True,0
+,,2026-05-24T08:37:34.959373,Explain Big O notation with examples.,phi3,mistral,6.45,16250.0,0.8,3.57,True,0
+,,2026-05-24T08:38:14.235629,Explain recursion using factorial as an example.,phi3,phi3,6.76,7500.0,2.38,5.47,True,0
+,,2026-05-24T08:38:14.235629,Explain recursion using factorial as an example.,phi3,llama3,6.39,12630.0,4.48,2.61,True,0
+,,2026-05-24T08:38:14.235629,Explain recursion using factorial as an example.,phi3,mistral,6.16,19140.0,0.52,3.66,True,0
+,,2026-05-24T08:38:43.361242,Explain artificial intelligence in simple words.,phi3,phi3,6.81,6310.0,2.42,4.44,True,0
+,,2026-05-24T08:38:43.361242,Explain artificial intelligence in simple words.,phi3,llama3,6.78,12120.0,4.96,2.64,True,0
+,,2026-05-24T08:38:43.361242,Explain artificial intelligence in simple words.,phi3,mistral,6.46,10690.0,1.08,3.27,True,0
+,,2026-05-24T08:39:22.520445,Explain the difference between machine learning and deep learning.,phi3,phi3,7.89,8750.0,2.44,9.37,True,0
+,,2026-05-24T08:39:22.520445,Explain the difference between machine learning and deep learning.,phi3,mistral,7.78,16650.0,0.51,5.71,True,0
+,,2026-05-24T08:39:22.520445,Explain the difference between machine learning and deep learning.,phi3,llama3,6.89,13750.0,3.82,5.53,True,0
+,,2026-05-24T08:39:48.507762,Explain what a large language model is.,mistral,mistral,7.18,10660.0,0.49,4.78,True,0
+,,2026-05-24T08:39:48.507762,Explain what a large language model is.,mistral,phi3,6.78,6910.0,2.41,4.49,True,0
+,,2026-05-24T08:39:48.507762,Explain what a large language model is.,mistral,llama3,6.72,8410.0,3.81,2.85,True,0
+,,2026-05-24T08:40:13.831572,Explain what model inference means.,phi3,phi3,6.82,5720.0,2.43,4.72,True,0
+,,2026-05-24T08:40:13.831572,Explain what model inference means.,phi3,mistral,6.73,8160.0,0.81,3.55,True,0
+,,2026-05-24T08:40:13.831572,Explain what model inference means.,phi3,llama3,6.62,11420.0,4.28,4.38,True,0
+,,2026-05-24T08:40:59.081999,Explain why local LLMs are useful for privacy.,mistral,mistral,7.16,19070.0,0.54,5.35,True,0
+,,2026-05-24T08:40:59.081999,Explain why local LLMs are useful for privacy.,mistral,llama3,6.89,13810.0,3.86,5.07,True,0
+,,2026-05-24T08:40:59.081999,Explain why local LLMs are useful for privacy.,mistral,phi3,6.59,12370.0,2.67,4.93,True,0
+,,2026-05-24T08:42:07.062044,A train leaves at 8 AM at 60 km/h. Another train leaves at 9 AM at 80 km/h. Explain how to find when they meet.,mistral,mistral,6.63,15910.0,1.16,2.14,True,0
+,,2026-05-24T08:42:07.062044,A train leaves at 8 AM at 60 km/h. Another train leaves at 9 AM at 80 km/h. Explain how to find when they meet.,mistral,llama3,6.29,20530.0,5.36,1.32,True,0
+,,2026-05-24T08:42:07.062044,A train leaves at 8 AM at 60 km/h. Another train leaves at 9 AM at 80 km/h. Explain how to find when they meet.,mistral,phi3,6.14,0,0,7.0,False,3
+,,2026-05-24T08:43:18.095504,Explain step by step how to solve a logic puzzle.,llama3,llama3,7.42,26690.0,5.08,3.3,True,0
+,,2026-05-24T08:43:18.095504,Explain step by step how to solve a logic puzzle.,llama3,mistral,6.78,34490.0,0.8,2.64,True,0
+,,2026-05-24T08:43:18.095504,Explain step by step how to solve a logic puzzle.,llama3,phi3,6.68,9840.0,2.55,6.0,True,0
+,,2026-05-24T08:44:19.891019,"If all cats are animals and some animals are pets, can we conclude all cats are pets? Explain.",mistral,mistral,6.61,11850.0,0.52,3.54,True,0
+,,2026-05-24T08:44:19.891019,"If all cats are animals and some animals are pets, can we conclude all cats are pets? Explain.",mistral,phi3,6.54,8480.0,2.72,7.19,True,0
+,,2026-05-24T08:44:19.891019,"If all cats are animals and some animals are pets, can we conclude all cats are pets? Explain.",mistral,llama3,5.96,0,0,7.0,False,3
+,,2026-05-24T08:45:05.203249,A farmer has chickens and cows. There are 20 heads and 56 legs. How many chickens and cows are there?,llama3,llama3,7.04,9770.0,4.74,1.23,True,0
+,,2026-05-24T08:45:05.203249,A farmer has chickens and cows. There are 20 heads and 56 legs. How many chickens and cows are there?,llama3,mistral,6.5,9720.0,0.97,0.62,True,0
+,,2026-05-24T08:45:05.203249,A farmer has chickens and cows. There are 20 heads and 56 legs. How many chickens and cows are there?,llama3,phi3,5.96,0,0,7.0,False,3
+,,2026-05-24T08:46:02.038592,Explain how to approach a problem when you do not know the answer immediately.,mistral,mistral,7.26,13500.0,0.48,3.48,True,0
+,,2026-05-24T08:46:02.038592,Explain how to approach a problem when you do not know the answer immediately.,mistral,llama3,6.81,11330.0,3.95,3.18,True,0
+,,2026-05-24T08:46:02.038592,Explain how to approach a problem when you do not know the answer immediately.,mistral,phi3,6.14,0,0,7.0,False,3
+,,2026-05-24T08:48:13.716588,Explain stack in Java with a simple code example.,phi3,phi3,7.0,5720.0,2.27,4.9,True,0
+,,2026-05-24T08:48:13.716588,Explain stack in Java with a simple code example.,phi3,llama3,6.84,10130.0,4.92,3.26,True,0
+,,2026-05-24T08:48:13.716588,Explain stack in Java with a simple code example.,phi3,mistral,6.52,14310.0,0.22,3.56,True,0
+,,2026-05-24T08:49:23.497750,Write Java code to check valid parentheses using stack.,mistral,mistral,7.2,17730.0,0.22,4.68,True,0
+,,2026-05-24T08:49:23.497750,Write Java code to check valid parentheses using stack.,mistral,llama3,6.78,11960.0,4.11,5.02,True,0
+,,2026-05-24T08:49:23.497750,Write Java code to check valid parentheses using stack.,mistral,phi3,6.32,0,0,7.0,False,3
+,,2026-05-24T08:50:04.340337,Explain binary search with time complexity.,phi3,phi3,6.48,10330.0,2.51,5.61,True,0
+,,2026-05-24T08:50:04.340337,Explain binary search with time complexity.,phi3,llama3,6.45,10970.0,4.93,2.19,True,0
+,,2026-05-24T08:50:04.340337,Explain binary search with time complexity.,phi3,mistral,6.33,19540.0,0.5,2.97,True,0
+,,2026-05-24T08:51:35.669049,Write Python code to reverse a linked list and explain the logic.,phi3,phi3,7.04,9830.0,2.79,2.75,True,0
+,,2026-05-24T08:51:35.669049,Write Python code to reverse a linked list and explain the logic.,phi3,mistral,7.0,33310.0,0.59,2.82,True,0
+,,2026-05-24T08:51:35.669049,Write Python code to reverse a linked list and explain the logic.,phi3,llama3,6.14,0,0,7.0,False,3
+,,2026-05-24T08:52:25.052938,Explain merge sort with time and space complexity.,llama3,llama3,6.74,12970.0,5.23,2.16,True,0
+,,2026-05-24T08:52:25.052938,Explain merge sort with time and space complexity.,llama3,phi3,6.57,12810.0,2.79,5.46,True,0
+,,2026-05-24T08:52:25.052938,Explain merge sort with time and space complexity.,llama3,mistral,6.0,23590.0,0.53,2.2,True,0
+BMK-20260524-090429-dc052dde,REQ-20260524-090429-19067e28,2026-05-24T09:04:29.375263,string,phi3,phi3,6.62,6570.0,2.38,7.91,True,0
+BMK-20260524-090429-dc052dde,REQ-20260524-090429-19067e28,2026-05-24T09:04:29.375263,string,phi3,llama3,6.59,7250.0,4.16,3.03,True,0
+BMK-20260524-090429-dc052dde,REQ-20260524-090429-19067e28,2026-05-24T09:04:29.375263,string,phi3,mistral,6.54,8560.0,3.96,4.21,True,0
+BMK-20260524-091439-754f48e0,REQ-20260524-091439-4b6d7563,2026-05-24T09:14:39.868058,Explain stack in Java with a simple code example.,phi3,phi3,6.99,5950.0,2.36,4.71,True,0
+BMK-20260524-091439-754f48e0,REQ-20260524-091439-4b6d7563,2026-05-24T09:14:39.868058,Explain stack in Java with a simple code example.,phi3,llama3,6.92,8050.0,2.97,4.1,True,0
+BMK-20260524-091439-754f48e0,REQ-20260524-091439-4b6d7563,2026-05-24T09:14:39.868058,Explain stack in Java with a simple code example.,phi3,mistral,5.81,33850.0,5.79,1.51,True,0
+BMK-20260524-091527-52f3c097,REQ-20260524-091527-d294ad56,2026-05-24T09:15:27.729072,Write Java code to check valid parentheses using stack.,mistral,mistral,7.25,16610.0,0.22,5.0,True,0
+BMK-20260524-091527-52f3c097,REQ-20260524-091527-d294ad56,2026-05-24T09:15:27.729072,Write Java code to check valid parentheses using stack.,mistral,llama3,6.73,13280.0,4.6,4.52,True,0
+BMK-20260524-091527-52f3c097,REQ-20260524-091527-d294ad56,2026-05-24T09:15:27.729072,Write Java code to check valid parentheses using stack.,mistral,phi3,6.32,0,0,7.0,False,3
+BMK-20260524-091633-38d8f76c,REQ-20260524-091633-ffacf05d,2026-05-24T09:16:33.411785,Explain binary search with time complexity.,mistral,mistral,6.62,11360.0,0.26,5.11,True,0
+BMK-20260524-091633-38d8f76c,REQ-20260524-091633-ffacf05d,2026-05-24T09:16:33.411785,Explain binary search with time complexity.,mistral,phi3,6.59,7230.0,2.41,8.02,True,0
+BMK-20260524-091633-38d8f76c,REQ-20260524-091633-ffacf05d,2026-05-24T09:16:33.411785,Explain binary search with time complexity.,mistral,llama3,6.5,9760.0,5.14,2.46,True,0
+BMK-20260524-091709-a758f02b,REQ-20260524-091709-b051f83b,2026-05-24T09:17:09.456999,explain stack ,llama3,llama3,6.53,13920.0,6.61,3.81,True,0
+BMK-20260524-091709-a758f02b,REQ-20260524-091709-b051f83b,2026-05-24T09:17:09.456999,explain stack ,llama3,phi3,6.36,13690.0,3.68,1.83,True,0
+BMK-20260524-091709-a758f02b,REQ-20260524-091709-b051f83b,2026-05-24T09:17:09.456999,explain stack ,llama3,mistral,5.97,24500.0,0.91,2.37,True,0
+BMK-20260524-091701-bf667ee1,REQ-20260524-091701-9ec16c3f,2026-05-24T09:17:01.767973,Write Python code to reverse a linked list and explain the logic.,mistral,mistral,7.13,29690.0,4.72,3.17,True,0
+BMK-20260524-091701-bf667ee1,REQ-20260524-091701-9ec16c3f,2026-05-24T09:17:01.767973,Write Python code to reverse a linked list and explain the logic.,mistral,phi3,7.09,8200.0,2.41,3.29,True,0
+BMK-20260524-091701-bf667ee1,REQ-20260524-091701-9ec16c3f,2026-05-24T09:17:01.767973,Write Python code to reverse a linked list and explain the logic.,mistral,llama3,6.14,0,0,7.0,False,3
+BMK-20260524-091840-5d773a89,REQ-20260524-091840-e9d43fd4,2026-05-24T09:18:40.365724,Explain merge sort with time and space complexity.,llama3,llama3,6.69,14450.0,4.87,1.94,True,0
+BMK-20260524-091840-5d773a89,REQ-20260524-091840-e9d43fd4,2026-05-24T09:18:40.365724,Explain merge sort with time and space complexity.,llama3,phi3,6.64,10670.0,2.82,6.56,True,0
+BMK-20260524-091840-5d773a89,REQ-20260524-091840-e9d43fd4,2026-05-24T09:18:40.365724,Explain merge sort with time and space complexity.,llama3,mistral,5.79,29510.0,0.64,1.76,True,0
+BMK-20260524-092600-1f9b2333,REQ-20260524-092600-88538143,2026-05-24T09:26:00.665359,Explain stack in Java with a simple code example.,phi3,phi3,6.89,8950.0,2.47,3.13,True,0
+BMK-20260524-092600-1f9b2333,REQ-20260524-092600-88538143,2026-05-24T09:26:00.665359,Explain stack in Java with a simple code example.,phi3,llama3,6.88,9320.0,4.37,3.54,True,0
+BMK-20260524-092600-1f9b2333,REQ-20260524-092600-88538143,2026-05-24T09:26:00.665359,Explain stack in Java with a simple code example.,phi3,mistral,6.32,19700.0,5.53,2.59,True,0
+BMK-20260524-092605-8b89f0ba,REQ-20260524-092605-87f50b85,2026-05-24T09:26:05.700239,Explain stack in Java with a simple code example.,phi3,phi3,6.93,7690.0,2.84,3.64,True,0
+BMK-20260524-092605-8b89f0ba,REQ-20260524-092605-87f50b85,2026-05-24T09:26:05.700239,Explain stack in Java with a simple code example.,phi3,llama3,6.83,10620.0,4.33,3.11,True,0
+BMK-20260524-092605-8b89f0ba,REQ-20260524-092605-87f50b85,2026-05-24T09:26:05.700239,Explain stack in Java with a simple code example.,phi3,mistral,5.74,35720.0,13.41,1.43,True,0
+BMK-20260524-092719-6e114e26,REQ-20260524-092719-62232a84,2026-05-24T09:27:19.482889,explain artificial intelligence,phi3,phi3,6.71,9000.0,4.94,3.33,True,0
+BMK-20260524-092719-6e114e26,REQ-20260524-092719-62232a84,2026-05-24T09:27:19.482889,explain artificial intelligence,phi3,llama3,6.65,15520.0,5.09,4.19,True,0
+BMK-20260524-092719-6e114e26,REQ-20260524-092719-62232a84,2026-05-24T09:27:19.482889,explain artificial intelligence,phi3,mistral,6.51,14440.0,5.27,1.32,True,0
+BMK-20260524-092638-5948516e,REQ-20260524-092638-8aa50edc,2026-05-24T09:26:38.647419,Write Java code to check valid parentheses using stack.,mistral,mistral,7.08,21320.0,4.54,3.89,True,0
+BMK-20260524-092638-5948516e,REQ-20260524-092638-8aa50edc,2026-05-24T09:26:38.647419,Write Java code to check valid parentheses using stack.,mistral,llama3,6.55,18160.0,5.26,3.3,True,0
+BMK-20260524-092638-5948516e,REQ-20260524-092638-8aa50edc,2026-05-24T09:26:38.647419,Write Java code to check valid parentheses using stack.,mistral,phi3,6.32,0,0,7.0,False,3
+BMK-20260524-092814-bbae07b1,REQ-20260524-092814-73a53ad1,2026-05-24T09:28:14.434271,Explain binary search with time complexity.,llama3,llama3,6.41,12280.0,4.98,1.95,True,0
+BMK-20260524-092814-bbae07b1,REQ-20260524-092814-73a53ad1,2026-05-24T09:28:14.434271,Explain binary search with time complexity.,llama3,phi3,6.4,12490.0,2.99,4.64,True,0
+BMK-20260524-092814-bbae07b1,REQ-20260524-092814-73a53ad1,2026-05-24T09:28:14.434271,Explain binary search with time complexity.,llama3,mistral,6.33,19550.0,0.53,2.97,True,0
